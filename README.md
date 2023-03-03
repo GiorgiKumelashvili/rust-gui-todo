@@ -1,3 +1,3 @@
-# rust-gui-todo
+# Todo App
 
-Simple todo app (For getting hands dirty with rust)
+Simple todo app written in rust (For getting hands dirty with rust)
